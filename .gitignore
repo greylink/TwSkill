@@ -1,0 +1,3 @@
+# Claude Code Skill 目录结构
+# references/ 目录存放外部文档，需手动克隆，不纳入版本控制
+rnoh-lib-guide/references/
