@@ -17,7 +17,7 @@
 
 ## 使用
 
-在 Claude Code 中通过 `/harmonyos-rn-library-check` 调用，或直接询问某个鸿蒙 RN 库的接入方式。
+在 Claude Code 中通过 `/rnoh-lib-guide` 调用，或直接询问某个鸿蒙 RN 库的接入方式。
 
 ## 文档来源
 
